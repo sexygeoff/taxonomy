@@ -1,10 +1,13 @@
 [
    {
       "1":"Automotive"
+      ,"level":1
    },
    {
       "1.1":{
          "Automotive":"Auto Body Styles"
+         ,"level":2
+         ,"parent":{"1":"Automotive"}
       }
    },
    {
